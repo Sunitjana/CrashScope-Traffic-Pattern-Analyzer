@@ -113,7 +113,7 @@ Clone the repository: git clone https://github.com/your-username/crashscope.git
 `pip install -r requirements.txt`
 
 ## Run the analysis:
-python crash_analysis.py
+`python crash_analysis.py`
 
 ## ✅ Results Summary
 Peak accident hours are between 12 PM to 6 PM
