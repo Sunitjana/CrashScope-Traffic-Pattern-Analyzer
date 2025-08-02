@@ -110,7 +110,7 @@ Clone the repository: git clone https://github.com/your-username/crashscope.git
 
 ## Install required libraries: 
 
-"pip install -r requirements.txt"
+`pip install -r requirements.txt`
 
 ## Run the analysis:
 python crash_analysis.py
